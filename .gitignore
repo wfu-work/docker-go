@@ -1,0 +1,9 @@
+data/
+logback/
+navapi-go
+
+.idea/
+.vscode/
+
+build/
+.gocache/
