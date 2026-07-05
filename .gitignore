@@ -6,4 +6,5 @@ navapi-go
 .vscode/
 
 build/
+bin/
 .gocache/
